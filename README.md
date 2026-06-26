@@ -1,8 +1,8 @@
-<!-- ═══════════ Ψ DEK0RTA · 2093 ═══════════ -->
+<!-- ═══════════ 🔥 LYFESTYLE · DEK0RTA · 2093 🔥 ═══════════ -->
 
 <div align="center">
 
-<img width="100%" src="./assets/yeat-header.svg" alt="Dek0rta"/>
+<img width="100%" src="./assets/lyfestyle-header.svg" alt="Dek0rta — LYFESTYLE"/>
 
 </div>
 
@@ -18,7 +18,7 @@
 **◣ on repeat**
 
 <!-- LIVE Spotify — updates by itself once deployed -->
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=PUT_YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=08040d&interchange=false&bar_color=39ff14&bar_color_cover=true)](https://open.spotify.com/user/PUT_YOUR_SPOTIFY_UID)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=PUT_YOUR_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=1a0d06&interchange=false&bar_color=ff6b00&bar_color_cover=true)](https://open.spotify.com/user/PUT_YOUR_SPOTIFY_UID)
 
 </td>
 <td valign="top" width="50%">
@@ -26,10 +26,10 @@
 **◣ coordinates**
 
 ```
-loc   bryansk, ru
-mode  building ai tools
-vibe  rage · physics · code
-year  2093
+loc    bryansk, ru
+mode   building ai tools
+vibe   rage · fire · code
+year   2093
 ```
 
 </td>
@@ -44,21 +44,21 @@ year  2093
 <!-- LIVE WakaTime — real coding hours, updates weekly -->
 <!--START_SECTION:waka-->
 ```txt
-01 ─ Python       ████████████░░░░░░   bots · gemini · ocr
-02 ─ TypeScript   ████████░░░░░░░░░░   next.js · supabase
-03 ─ SQL          ███░░░░░░░░░░░░░░░   supabase · data
-04 ─ Bash         ██░░░░░░░░░░░░░░░░   deploy · railway
+01 ─ Python       🔥🔥🔥🔥🔥🔥░░░░   bots · gemini · ocr
+02 ─ TypeScript   🔥🔥🔥🔥░░░░░░░░   next.js · supabase
+03 ─ SQL          🔥🔥░░░░░░░░░░░░   supabase · data
+04 ─ Bash         🔥░░░░░░░░░░░░░░   deploy · railway
 ```
 <!--END_SECTION:waka-->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-08040d?style=for-the-badge&logo=python&logoColor=39ff14" />
-<img src="https://img.shields.io/badge/TypeScript-08040d?style=for-the-badge&logo=typescript&logoColor=a855f7" />
-<img src="https://img.shields.io/badge/Next.js-08040d?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Supabase-08040d?style=for-the-badge&logo=supabase&logoColor=39ff14" />
-<img src="https://img.shields.io/badge/Gemini-08040d?style=for-the-badge&logo=googlegemini&logoColor=a855f7" />
-<img src="https://img.shields.io/badge/Tailwind-08040d?style=for-the-badge&logo=tailwindcss&logoColor=39ff14" />
+<img src="https://img.shields.io/badge/Python-1a0d06?style=for-the-badge&logo=python&logoColor=ffb627" />
+<img src="https://img.shields.io/badge/TypeScript-1a0d06?style=for-the-badge&logo=typescript&logoColor=ff6b00" />
+<img src="https://img.shields.io/badge/Next.js-1a0d06?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Supabase-1a0d06?style=for-the-badge&logo=supabase&logoColor=ffb627" />
+<img src="https://img.shields.io/badge/Gemini-1a0d06?style=for-the-badge&logo=googlegemini&logoColor=ff6b00" />
+<img src="https://img.shields.io/badge/Tailwind-1a0d06?style=for-the-badge&logo=tailwindcss&logoColor=ffb627" />
 
 </div>
 
@@ -69,24 +69,24 @@ year  2093
 
 | | |
 |:--|:--|
-| **▸ homework-bot** `Ψ` | telegram bot · gemini llm + ocr. reads homework, drops deadlines into google calendar, runs its own analytics. `python` |
-| **▸ coninuum-physics** `Ψ` | physics sims on the web · next.js + supabase — [live ↗](https://coninuum-physics.vercel.app). `typescript` |
-| **▸ sportbaza-ironflow** `Ψ` | sport / training tracker. `python` |
+| **▸ homework-bot** `🔥` | telegram bot · gemini llm + ocr. reads homework, drops deadlines into google calendar, runs its own analytics. `python` |
+| **▸ coninuum-physics** `🔥` | physics sims on the web · next.js + supabase — [live ↗](https://coninuum-physics.vercel.app). `typescript` |
+| **▸ sportbaza-ironflow** `🔥` | sport / training tracker. `python` |
 
 <br/>
 
-<!-- ░░░░ STATS ░░░░ -->
+<!-- ░░░░ COUNT · stats ░░░░ -->
 ### `▌ count ▐`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dek0rta&show_icons=true&hide_border=true&bg_color=08040d&title_color=39ff14&icon_color=a855f7&text_color=b98cff&ring_color=39ff14" alt="stats"/>
-<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=Dek0rta&hide_border=true&background=08040d&stroke=39ff14&ring=a855f7&fire=39ff14&currStreakLabel=39ff14&sideLabels=b98cff&dates=6b6b8a&currStreakNum=ffffff&sideNums=ffffff" alt="streak"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dek0rta&show_icons=true&hide_border=true&bg_color=1a0d06&title_color=ffb627&icon_color=ff6b00&text_color=ffd9a0&ring_color=ff6b00" alt="stats"/>
+<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=Dek0rta&hide_border=true&background=1a0d06&stroke=ff6b00&ring=ffb627&fire=ff6b00&currStreakLabel=ffb627&sideLabels=ffd9a0&dates=8a6b4a&currStreakNum=ffffff&sideNums=ffffff" alt="streak"/>
 
 </div>
 
 <br/>
 
 <div align="center">
-<sub>Ψ &nbsp; <code>// i build tools i use myself</code> &nbsp; Ψ</sub>
+<sub>🔥 &nbsp; <code>// i build tools i use myself</code> &nbsp; 🔥</sub>
 </div>
