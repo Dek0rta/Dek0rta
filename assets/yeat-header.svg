@@ -1,0 +1,75 @@
+<svg viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono','SF Mono',monospace">
+  <defs>
+    <radialGradient id="space" cx="50%" cy="30%" r="90%">
+      <stop offset="0%"  stop-color="#15071f"/>
+      <stop offset="55%" stop-color="#08040d"/>
+      <stop offset="100%" stop-color="#020104"/>
+    </radialGradient>
+
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"  stop-color="#a855f7"/>
+      <stop offset="55%" stop-color="#c026d3"/>
+      <stop offset="100%" stop-color="#39ff14"/>
+    </linearGradient>
+
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <filter id="softglow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="14" result="b"/>
+      <feColorMatrix in="b" type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 0.6 0"/>
+    </filter>
+
+    <clipPath id="frame"><rect width="900" height="260" rx="16"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="900" height="260" fill="url(#space)"/>
+
+    <!-- toxic-green nebula glow -->
+    <circle cx="740" cy="60" r="120" fill="#39ff14" opacity="0.10" filter="url(#softglow)">
+      <animate attributeName="opacity" values="0.06;0.16;0.06" dur="7s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="150" cy="210" r="130" fill="#a855f7" opacity="0.14" filter="url(#softglow)">
+      <animate attributeName="opacity" values="0.10;0.20;0.10" dur="9s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- star field -->
+    <g fill="#ffffff">
+      <circle cx="90"  cy="40"  r="1.2"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s"  repeatCount="indefinite"/></circle>
+      <circle cx="820" cy="200" r="1.1"><animate attributeName="opacity" values="1;0.2;1" dur="4s"  repeatCount="indefinite"/></circle>
+      <circle cx="640" cy="38"  r="1.0"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.6s" repeatCount="indefinite"/></circle>
+      <circle cx="280" cy="220" r="1.3"><animate attributeName="opacity" values="1;0.3;1" dur="3.4s" repeatCount="indefinite"/></circle>
+      <circle cx="470" cy="30"  r="0.9"><animate attributeName="opacity" values="0.2;0.9;0.2" dur="5s" repeatCount="indefinite"/></circle>
+    </g>
+
+    <!-- twizzy Ψ sigil -->
+    <text x="100" y="150" font-size="120" font-weight="800" fill="url(#neon)" filter="url(#glow)" opacity="0.9">Ψ</text>
+
+    <!-- glitch title: 3 layers RGB-shift -->
+    <g filter="url(#glow)">
+      <text x="210" y="128" font-size="62" font-weight="800" fill="#39ff14" opacity="0.55" letter-spacing="3">
+        DEK0RTA
+        <animate attributeName="x" values="210;213;208;210" dur="0.18s" repeatCount="indefinite"/>
+      </text>
+      <text x="210" y="128" font-size="62" font-weight="800" fill="#a855f7" opacity="0.55" letter-spacing="3">
+        DEK0RTA
+        <animate attributeName="x" values="210;207;212;210" dur="0.22s" repeatCount="indefinite"/>
+      </text>
+      <text x="210" y="128" font-size="62" font-weight="800" fill="#ffffff" letter-spacing="3">DEK0RTA</text>
+    </g>
+
+    <!-- subtitle -->
+    <text x="212" y="162" font-size="16" font-weight="600" fill="#b98cff" letter-spacing="2">luh geeky dev · bryansk · 2093</text>
+
+    <!-- scanline -->
+    <rect x="0" y="0" width="900" height="2" fill="#39ff14" opacity="0.25">
+      <animate attributeName="y" values="0;260;0" dur="6s" repeatCount="indefinite"/>
+    </rect>
+
+    <!-- corner ticks -->
+    <text x="858" y="36" font-size="12" fill="#39ff14" text-anchor="end" opacity="0.7" font-weight="700">[ ◣ rage ]</text>
+  </g>
+</svg>
