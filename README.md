@@ -1,99 +1,89 @@
 <!--
-  ╔═══════════════════════════════════════════════════════════════╗
-  ║   ██████╗ ███████╗██╗  ██╗ ██████╗ ██████╗ ████████╗ █████╗   ║
-  ║   ██╔══██╗██╔════╝██║ ██╔╝██╔═████╗██╔══██╗╚══██╔══╝██╔══██╗  ║
-  ║   ██║  ██║█████╗  █████╔╝ ██║██╔██║██████╔╝   ██║   ███████║  ║
-  ║   ██║  ██║██╔══╝  ██╔═██╗ ████╔╝██║██╔══██╗   ██║   ██╔══██║  ║
-  ║   ██████╔╝███████╗██║  ██╗╚██████╔╝██║  ██║   ██║   ██║  ██║  ║
-  ║   ╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝  ║
-  ╚═══════════════════════════════════════════════════════════════╝
+  ╭──────────────────────────────────────────────╮
+  │   Dek0rta · Liquid Glass profile             │
+  │   AI-fullstack · Bryansk RU                   │
+  ╰──────────────────────────────────────────────╯
 -->
 
-<!-- ░░░░░░░░░░░░░░░ SYNTHWAVE HEADER BANNER ░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░ GLASS HEADER ░░░░░░░░ -->
 <div align="center">
 
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:f72585,30:b5179e,60:7209b7,100:3a0ca3&height=220&section=header&text=Dek0rta&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=//%20backend%20bots%20%E2%80%A2%20physics%20on%20the%20web%20%E2%80%A2%20Bryansk%20RU&descAlignY=58&descSize=18)](https://github.com/Dek0rta)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Dek0rta&fontSize=72&fontColor=ffffff&fontAlignY=42&desc=AI-fullstack%20developer%20%C2%B7%20Bryansk%20RU&descAlignY=64&descSize=16&descColor=a9b4d2" alt="header"/>
 
-<!-- ░░░░░░░░░░░░░░░ TYPING ANIMATION ░░░░░░░░░░░░░░░ -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=F72585&center=true&vCenter=true&width=600&lines=%24+whoami;Python+%2B+TypeScript+developer;Building+bots+%26+physics+sims;Pair+Extraordinaire+%C3%97+3+%E2%9A%A1)](https://git.io/typing-svg)
+<!-- subtle typing -->
+[![Typing](https://readme-typing-svg.demolab.com?font=SF+Mono&weight=500&size=20&duration=3000&pause=1000&color=8AB4F8&center=true&vCenter=true&width=520&lines=building+bots+with+LLM+%26+OCR;Next.js+%2B+Supabase+web+apps;clean+code%2C+calm+design)](https://github.com/Dek0rta)
 
-<!-- ░░░░░░░░░░░░░░░ SOCIAL / PROFILE BADGES ░░░░░░░░░░░░░░░ -->
-![Profile Views](https://komarev.com/ghpvc/?username=Dek0rta&style=for-the-badge&color=f72585&label=VISITORS)
-[![Vercel Demo](https://img.shields.io/badge/live_demo-Coninuum_Physics-7209b7?style=for-the-badge&logo=vercel&logoColor=white)](https://coninuum-physics.vercel.app)
+<br/>
+
+<!-- glassy pill badges -->
+<a href="https://coninuum-physics.vercel.app">
+  <img src="https://img.shields.io/badge/%E2%97%89%20live%20demo-Coninuum%20Physics-1f2937?style=flat-square&labelColor=111827&color=374151" alt="demo"/>
+</a>
+<img src="https://komarev.com/ghpvc/?username=Dek0rta&style=flat-square&color=374151&labelColor=111827&label=visitors" alt="views"/>
 
 </div>
 
----
+<br/>
 
-<!-- ░░░░░░░░░░░░░░░ ABOUT ░░░░░░░░░░░░░░░ -->
-<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=Dek0rta&show_icons=true&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=f72585&icon_color=b5179e&text_color=c9d1d9" alt="stats"/>
+<!-- ░░░░░░░░ ABOUT — frosted code panel ░░░░░░░░ -->
 
-```ts
-const dek0rta = {
-  location:  "Bryansk, RU 🇷🇺",
-  code:      ["Python", "TypeScript"],
-  builds:    ["Telegram bots", "physics sims", "web apps"],
-  stack:     ["FastAPI?", "React", "Vercel"],
-  vibe:      "synthwave + clean code",
-  status:    "always shipping ⚡",
-};
-```
+> ```ts
+> const dek0rta = {
+>   role:    "AI-fullstack developer",
+>   place:   "Bryansk, RU 🇷🇺",
+>   backend: ["Python", "FastAPI", "Supabase"],
+>   ai:      ["Gemini", "OCR", "automation"],
+>   web:     ["Next.js", "TypeScript", "Tailwind"],
+>   deploy:  ["Vercel", "Railway", "Render"],
+>   style:   "calm · glass · precise",
+> };
+> ```
 
-### ⟶ что я делаю
-- 🤖 **Бэкенд на Python** — боты, автоматизация, API
-- 🌐 **Фронт на TypeScript** — физические симуляции в вебе
-- ⚛️ **Физика + код** — `Coninuum-Physics` живёт на [Vercel](https://coninuum-physics.vercel.app)
-- 🤝 **Командная работа** — Pair Extraordinaire ×3
+<br/>
 
-<br clear="right"/>
+<!-- ░░░░░░░░ STACK — soft pills ░░░░░░░░ -->
+### &nbsp;◍&nbsp; Stack
 
----
+<p>
+<img src="https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=8AB4F8" />
+<img src="https://img.shields.io/badge/TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=8AB4F8" />
+<img src="https://img.shields.io/badge/Next.js-1e293b?style=flat-square&logo=nextdotjs&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Supabase-1e293b?style=flat-square&logo=supabase&logoColor=3ECF8E" />
+<img src="https://img.shields.io/badge/Tailwind-1e293b?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+<img src="https://img.shields.io/badge/Gemini-1e293b?style=flat-square&logo=googlegemini&logoColor=8AB4F8" />
+<img src="https://img.shields.io/badge/Vercel-1e293b?style=flat-square&logo=vercel&logoColor=ffffff" />
+<img src="https://img.shields.io/badge/Railway-1e293b?style=flat-square&logo=railway&logoColor=ffffff" />
+</p>
 
-<!-- ░░░░░░░░░░░░░░░ TECH STACK ░░░░░░░░░░░░░░░ -->
-### 🛠️ Tech Stack
+<br/>
+
+<!-- ░░░░░░░░ PROJECTS — glass cards ░░░░░░░░ -->
+### &nbsp;◍&nbsp; Selected work
+
+| | |
+|:--|:--|
+| **🧠 Homework-bot** | Telegram-бот с Gemini LLM + OCR. Распознаёт задания, тянет дедлайны в Google Calendar, своя аналитика. `Python` |
+| **⚛️ Coninuum-Physics** | Физические симуляции в вебе. Next.js + Supabase, [живой деплой ↗](https://coninuum-physics.vercel.app). `TypeScript` |
+| **💪 SPORTBAZA-IronFlow** | Спорт/трекинг-проект на Python. `Python` |
+
+<br/>
+
+<!-- ░░░░░░░░ STATS — translucent cards ░░░░░░░░ -->
+### &nbsp;◍&nbsp; Stats
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffd43b)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram_Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dek0rta&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8AB4F8&icon_color=8AB4F8&text_color=a9b4d2&ring_color=8AB4F8" alt="stats"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dek0rta&layout=compact&hide_border=true&bg_color=0d1117&title_color=8AB4F8&text_color=a9b4d2" alt="langs"/>
+
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dek0rta&bg_color=0d1117&color=8AB4F8&line=8AB4F8&point=ffffff&hide_border=true&area=true&area_color=1e293b" alt="activity"/>
 
 </div>
 
----
-
-<!-- ░░░░░░░░░░░░░░░ STATS WIDGETS ░░░░░░░░░░░░░░░ -->
-### 📊 GitHub Stats
+<br/>
 
 <div align="center">
 
-[![Streak](https://streak-stats.demolab.com?user=Dek0rta&theme=synthwave&hide_border=true&background=0d1117&stroke=f72585&ring=f72585&fire=b5179e&currStreakLabel=f72585)](https://github.com/Dek0rta)
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dek0rta&layout=compact&theme=synthwave&hide_border=true&bg_color=0d1117&title_color=f72585&text_color=c9d1d9" alt="langs"/>
-<img width="48%" src="https://github-profile-trophy.vercel.app/?username=Dek0rta&theme=synthwave&no-frame=true&column=4&row=2&margin-w=8" alt="trophies"/>
-
-</div>
-
----
-
-<!-- ░░░░░░░░░░░░░░░ CONTRIBUTION SNAKE / GRAPH ░░░░░░░░░░░░░░░ -->
-### 🐍 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dek0rta&theme=synthwave&hide_border=true&bg_color=0d1117&color=f72585&line=7209b7&point=ffffff)](https://github.com/Dek0rta)
-
-</div>
-
----
-
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3a0ca3,40:7209b7,70:b5179e,100:f72585&height=120&section=footer)
-
-**`> thanks for visiting — stay synth ⚡`**
+<sub>◍ &nbsp; calm code · glass aesthetic &nbsp; ◍</sub>
 
 </div>
