@@ -81,19 +81,6 @@
 
 <br/>
 
-<!-- ░░░░░░░░ CODING HOURS — WakaTime live ░░░░░░░░ -->
-### &nbsp;◍&nbsp; Coding hours
-
-<!--START_SECTION:waka-->
-<!-- Auto-filled by WakaTime readme stats action. Until first run, this stays empty. -->
-<!--END_SECTION:waka-->
-
-<div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=Dek0rta&layout=compact&hide_border=true&bg_color=0d1117&title_color=8AB4F8&text_color=a9b4d2&custom_title=Weekly%20coding%20time" alt="wakatime"/>
-</div>
-
-<br/>
-
 <!-- ░░░░░░░░ STATS — translucent cards ░░░░░░░░ -->
 ### &nbsp;◍&nbsp; Stats
 
