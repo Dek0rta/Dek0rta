@@ -38,12 +38,4 @@ syncs deadlines to Google Calendar, custom analytics. &nbsp;·&nbsp; `Python`
 
 ---
 
-### Now playing
-
-<a href="https://open.spotify.com/user/31qe4cirwpzx5vqjq7q4mnd4bfyu">
-  <img width="340" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qe4cirwpzx5vqjq7q4mnd4bfyu&cover_image=true&theme=natemoo-re&show_offline=true" alt="now playing"/>
-</a>
-
----
-
 <sub>Open to collaboration and interesting problems.</sub>
