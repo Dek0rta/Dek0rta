@@ -7,8 +7,9 @@
 [![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=0969DA&center=true&vCenter=true&width=640&lines=Design+%E2%86%92+frontend+%E2%86%92+backend+%E2%86%92+database;Figma%2C+shaders%2C+Next.js%2C+Python%2C+Postgres;Clean%2C+reliable%2C+shipped.)](https://github.com/Dek0rta)
 
 <a href="https://dek0rta.github.io"><img src="https://img.shields.io/badge/Portfolio-0969da?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="https://github.com/Dek0rta"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="mailto:levavdoshin.connect@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/zakhar-sukhanov-1ba2313b6/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://t.me/dek0rta"><img src="https://img.shields.io/badge/Telegram-26a5e4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="mailto:Dek0rta@yandex.com"><img src="https://img.shields.io/badge/Email-ffcc00?style=for-the-badge&logo=maildotru&logoColor=black"/></a>
 
 </div>
 
