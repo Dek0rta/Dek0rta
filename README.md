@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:0b2447,100:0969da&height=180&section=header&text=Dek0rta&fontSize=64&fontColor=ffffff&fontAlignY=42&desc=Fullstack%20developer%20%26%20web%20designer&descAlignY=66&descSize=16&descColor=a9c7ff" alt="banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b2447,100:0969da&height=200&section=header&text=Dek0rta&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20developer%20%26%20web%20designer&descAlignY=58&descSize=16&descColor=a9c7ff" alt="Dek0rta"/>
 
 [![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=0969DA&center=true&vCenter=true&width=640&lines=Design+%E2%86%92+frontend+%E2%86%92+backend+%E2%86%92+database;Figma%2C+shaders%2C+Next.js%2C+Python%2C+Postgres;Clean%2C+reliable%2C+shipped.)](https://github.com/Dek0rta)
 
