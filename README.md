@@ -20,7 +20,7 @@ backend services, database design, and third-party integrations.
 | 🗄️ &nbsp;**Database** | Schema design and queries on PostgreSQL / Supabase |
 
 > Currently contributing across the full stack of a production **EdTech platform**
-> (SAT · IELTS · UK admissions · mentorship portal) — design, frontend, backend, DB and integrations.
+>  — design, frontend, backend, DB and integrations.
 
 ---
 
