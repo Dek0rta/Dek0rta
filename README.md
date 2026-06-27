@@ -46,8 +46,6 @@ backend services, database design, and third-party integrations.
 
 ---
 
-<div align="center">
-
 ### Stack
 
 **Design**
@@ -78,8 +76,6 @@ backend services, database design, and third-party integrations.
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
-</div>
 
 ---
 
