@@ -2,11 +2,10 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b2447,100:0969da&height=200&section=header&text=Dek0rta&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20developer%20%26%20web%20designer&descAlignY=58&descSize=16&descColor=a9c7ff" alt="Dek0rta"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=56&duration=99999&pause=99999&color=E6EDF3&center=true&vCenter=true&width=640&height=90&lines=Dek0rta" alt="Dek0rta"/>
 
-[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=0969DA&center=true&vCenter=true&width=640&lines=Design+%E2%86%92+frontend+%E2%86%92+backend+%E2%86%92+database;Figma%2C+shaders%2C+Next.js%2C+Python%2C+Postgres;Clean%2C+reliable%2C+shipped.)](https://github.com/Dek0rta)
+[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=0969DA&center=true&vCenter=true&width=640&lines=Fullstack+developer+%26+web+designer;Design+%E2%86%92+frontend+%E2%86%92+backend+%E2%86%92+database;Figma%2C+shaders%2C+Next.js%2C+Python%2C+Postgres)](https://github.com/Dek0rta)
 
-<a href="https://dek0rta.github.io"><img src="https://img.shields.io/badge/Portfolio-0969da?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/zakhar-sukhanov-1ba2313b6/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://t.me/dek0rta"><img src="https://img.shields.io/badge/Telegram-26a5e4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="mailto:Dek0rta@yandex.com"><img src="https://img.shields.io/badge/Email-ffcc00?style=for-the-badge&logo=maildotru&logoColor=black"/></a>
@@ -30,8 +29,8 @@ backend services, database design, and third-party integrations.
 | ⚙️ &nbsp;**Backend** | Python services, REST APIs, third-party integrations |
 | 🗄️ &nbsp;**Database** | Schema design and queries on PostgreSQL / Supabase |
 
-> Currently contributing across the full stack of a production **EdTech platform**
-> (SAT · IELTS · UK admissions · mentorship portal) — design, frontend, backend, DB and integrations.
+> Currently contributing across the full stack of a production **EdTech platform** —
+> design, frontend, backend, database and integrations.
 
 ---
 
