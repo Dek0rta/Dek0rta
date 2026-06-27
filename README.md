@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Dek0rta/Dek0rta/main/assets/name.svg" alt="Dek0rta" height="130"/>
+<img src="https://raw.githubusercontent.com/Dek0rta/Dek0rta/main/assets/name.png" alt="Dek0rta" width="380"/>
 
 [![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=0969DA&center=true&vCenter=true&width=640&lines=Fullstack+developer+%26+web+designer;Design+%E2%86%92+frontend+%E2%86%92+backend+%E2%86%92+database;Figma%2C+shaders%2C+Next.js%2C+Python%2C+Postgres)](https://github.com/Dek0rta)
 
