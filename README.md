@@ -1,8 +1,18 @@
 <!-- ░░░░░░░░ MINIMAL / SWISS ░░░░░░░░ -->
 
-# Dek0rta
+<div align="center">
 
-[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=0969DA&vCenter=true&width=640&lines=Fullstack+developer+%26+web+designer;Design+%E2%86%92+frontend+%E2%86%92+backend+%E2%86%92+database;Figma%2C+shaders%2C+Next.js%2C+Python%2C+Postgres;Clean%2C+reliable%2C+shipped.)](https://github.com/Dek0rta)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,50:0b2447,100:0969da&height=180&section=header&text=Dek0rta&fontSize=64&fontColor=ffffff&fontAlignY=42&desc=Fullstack%20developer%20%26%20web%20designer&descAlignY=66&descSize=16&descColor=a9c7ff" alt="banner"/>
+
+[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=0969DA&center=true&vCenter=true&width=640&lines=Design+%E2%86%92+frontend+%E2%86%92+backend+%E2%86%92+database;Figma%2C+shaders%2C+Next.js%2C+Python%2C+Postgres;Clean%2C+reliable%2C+shipped.)](https://github.com/Dek0rta)
+
+<a href="https://dek0rta.github.io"><img src="https://img.shields.io/badge/Portfolio-0969da?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="https://github.com/Dek0rta"><img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:levavdoshin.connect@gmail.com"><img src="https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
+
+<br/>
 
 Fullstack developer and web designer from Bryansk, RU.
 I take products end to end — visual design in Figma and code, polished frontends,
@@ -20,7 +30,7 @@ backend services, database design, and third-party integrations.
 | 🗄️ &nbsp;**Database** | Schema design and queries on PostgreSQL / Supabase |
 
 > Currently contributing across the full stack of a production **EdTech platform**
->  — design, frontend, backend, DB and integrations.
+> (SAT · IELTS · UK admissions · mentorship portal) — design, frontend, backend, DB and integrations.
 
 ---
 
