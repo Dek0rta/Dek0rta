@@ -144,6 +144,10 @@ Dockerized.
 &nbsp;
 <img height="170" src="https://github-readme-stats-nine-tau-61.vercel.app/api/top-langs/?username=Dek0rta&layout=compact&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&langs_count=8&title_color=0969da&text_color=768390" alt="top langs"/>
 
+<img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=Dek0rta&hide_border=true&background=00000000&stroke=30363d&ring=0969da&fire=0969da&currStreakLabel=0969da&sideLabels=768390&dates=768390&currStreakNum=e6edf3&sideNums=e6edf3" alt="streak"/>
+
+<img width="98%" src="https://raw.githubusercontent.com/Dek0rta/Dek0rta/output/github-contribution-grid-snake-dark.svg" alt="contribution snake"/>
+
 </div>
 
 ---
