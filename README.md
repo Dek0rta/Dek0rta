@@ -112,7 +112,13 @@ Dockerized.
 
 ### Activity
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Dek0rta&show_icons=true&hide_border=true&hide_title=true&theme=transparent&hide=contribs&card_width=480&title_color=0969da&icon_color=0969da&text_color=768390" alt="stats"/>
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-nine-tau-61.vercel.app/api?username=Dek0rta&show_icons=true&hide_border=true&hide_title=true&theme=transparent&include_all_commits=true&count_private=true&hide=contribs&title_color=0969da&icon_color=0969da&text_color=768390" alt="stats"/>
+&nbsp;
+<img height="170" src="https://github-readme-stats-nine-tau-61.vercel.app/api/top-langs/?username=Dek0rta&layout=compact&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&langs_count=8&title_color=0969da&text_color=768390" alt="top langs"/>
+
+</div>
 
 ---
 
