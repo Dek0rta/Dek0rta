@@ -2,7 +2,7 @@
 
 # Dek0rta
 
-AI-fullstack developer. Bryansk, RU.
+[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=0969DA&vCenter=true&width=600&lines=AI-fullstack+developer+%C2%B7+Bryansk%2C+RU;Building+LLM+%26+OCR+pipelines;Next.js+%2B+Supabase+web+apps;Clean%2C+reliable%2C+shipped.)](https://github.com/Dek0rta)
 
 I build full-stack products end to end — LLM and OCR pipelines on the backend,
 polished web frontends on top. Clean, reliable, shipped.
@@ -20,7 +20,7 @@ polished web frontends on top. Clean, reliable, shipped.
 syncs deadlines to Google Calendar, custom analytics. &nbsp;·&nbsp; `Python`
 
 **Coninuum-Physics** &nbsp;·&nbsp; Web physics simulations.
-[continuum-physics.vercel.app](https://coninuum-physics.vercel.app) &nbsp;·&nbsp; `TypeScript`
+[coninuum-physics.vercel.app](https://coninuum-physics.vercel.app) &nbsp;·&nbsp; `TypeScript`
 
 **SPORTBAZA-IronFlow** &nbsp;·&nbsp; Sport and tracking project. &nbsp;·&nbsp; `Python`
 
@@ -28,20 +28,20 @@ syncs deadlines to Google Calendar, custom analytics. &nbsp;·&nbsp; `Python`
 
 ### Tech
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,supabase,nextjs,typescript,tailwind,react,nodejs,vercel,git,linux,vscode&theme=light&perline=12" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,supabase,nextjs,typescript,tailwind,react,nodejs,vercel,git,linux,vscode&perline=12" />
 
 ---
 
 ### Activity
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Dek0rta&show_icons=true&hide_border=true&hide_title=true&theme=graywhite&include_all_commits=true&count_private=true&hide=contribs&card_width=480&icon_color=000000&text_color=24292f&bg_color=ffffff00" alt="stats"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=Dek0rta&show_icons=true&hide_border=true&hide_title=true&theme=transparent&include_all_commits=true&count_private=true&hide=contribs&card_width=480&title_color=0969da&icon_color=0969da&text_color=768390" alt="stats"/>
 
 ---
 
 ### Now playing
 
 <a href="https://open.spotify.com/user/31qe4cirwpzx5vqjq7q4mnd4bfyu">
-  <img width="340" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qe4cirwpzx5vqjq7q4mnd4bfyu&cover_image=true&theme=natemoo-re&show_offline=true&background_color=ffffff&interchange=false" alt="now playing"/>
+  <img width="340" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31qe4cirwpzx5vqjq7q4mnd4bfyu&cover_image=true&theme=natemoo-re&show_offline=true" alt="now playing"/>
 </a>
 
 ---
