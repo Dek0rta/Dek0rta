@@ -14,13 +14,21 @@
 
 <br/>
 
-Fullstack developer and web designer from Bryansk, RU.
-I take products end to end — visual design in Figma and code, polished frontends,
+<div align="center">
+
+Fullstack developer and web designer from Bryansk, RU.<br/>
+I take products end to end — visual design in Figma and code, polished frontends,<br/>
 backend services, database design, and third-party integrations.
+
+</div>
 
 ---
 
+<div align="center">
+
 ### What I do
+
+</div>
 
 |  |  |
 |:--|:--|
@@ -29,10 +37,16 @@ backend services, database design, and third-party integrations.
 | ⚙️ &nbsp;**Backend** | Python services, REST APIs, third-party integrations |
 | 🗄️ &nbsp;**Database** | Schema design and queries on PostgreSQL / Supabase |
 
+<div align="center">
+
 > Currently contributing across the full stack of a production **EdTech platform** —
 > design, frontend, backend, database and integrations.
 
+</div>
+
 ---
+
+<div align="center">
 
 ### Stack
 
@@ -65,9 +79,15 @@ backend services, database design, and third-party integrations.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
+</div>
+
 ---
 
+<div align="center">
+
 ### Selected work
+
+</div>
 
 <table>
 <tr>
@@ -120,9 +140,9 @@ Dockerized.
 
 ---
 
-### Activity
-
 <div align="center">
+
+### Activity
 
 <img height="170" src="https://github-readme-stats-nine-tau-61.vercel.app/api?username=Dek0rta&show_icons=true&hide_border=true&hide_title=true&theme=transparent&include_all_commits=true&count_private=true&hide=contribs&title_color=0969da&icon_color=0969da&text_color=768390" alt="stats"/>
 &nbsp;
@@ -132,4 +152,6 @@ Dockerized.
 
 ---
 
+<div align="center">
 <sub>Open to collaboration and interesting problems.</sub>
+</div>
