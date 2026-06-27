@@ -1,102 +1,142 @@
-<!--
-  ╭──────────────────────────────────────────────╮
-  │   Dek0rta · Liquid Glass profile             │
-  │   AI-fullstack · Bryansk RU                   │
-  ╰──────────────────────────────────────────────╯
--->
-
-<!-- ░░░░░░░░ GLASS HEADER ░░░░░░░░ -->
+<!-- ░░░░░░░░ NEON HEADER ░░░░░░░░ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0d1a,40:16213e,100:0f3460&height=210&section=header&text=Dek0rta&fontSize=76&fontColor=ffffff&fontAlignY=40&desc=AI-fullstack%20developer%20%C2%B7%20Bryansk%20RU&descAlignY=62&descSize=16&descColor=a9b4d2" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,12,20,24,30&height=240&section=header&text=Dek0rta&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI-fullstack%20dev%20%E2%9A%A1%20Bryansk%20RU&descAlignY=58&descSize=18" alt="header"/>
 
-<!-- subtle typing -->
-[![Typing](https://readme-typing-svg.demolab.com?font=SF+Mono&weight=500&size=20&duration=3000&pause=1000&color=8AB4F8&center=true&vCenter=true&width=540&lines=building+bots+with+LLM+%26+OCR;Next.js+%2B+Supabase+web+apps;clean+code%2C+calm+design)](https://github.com/Dek0rta)
+<!-- animated typing -->
+[![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2800&pause=800&color=F75C7E&center=true&vCenter=true&width=600&lines=building+LLM+bots+%F0%9F%A4%96;Next.js+%2B+Supabase+apps+%E2%9A%9B%EF%B8%8F;OCR+%26+automation+magic+%E2%9C%A8;ship+fast%2C+break+things+%F0%9F%9A%80)](https://github.com/Dek0rta)
 
 <br/>
 
-<!-- glassy pill badges -->
+<!-- neon badges -->
+<img src="https://komarev.com/ghpvc/?username=Dek0rta&style=for-the-badge&color=F75C7E&label=VISITORS"/>
 <a href="https://coninuum-physics.vercel.app">
-  <img src="https://img.shields.io/badge/%E2%97%89%20live%20demo-Coninuum%20Physics-1f2937?style=flat-square&labelColor=111827&color=374151" alt="demo"/>
+  <img src="https://img.shields.io/badge/%F0%9F%9A%80_LIVE_DEMO-Coninuum_Physics-8A2BE2?style=for-the-badge"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=Dek0rta&style=flat-square&color=374151&labelColor=111827&label=visitors" alt="views"/>
 
 </div>
 
 <br/>
 
-<!-- ░░░░░░░░ NOW PLAYING — live Spotify glass card ░░░░░░░░ -->
+<!-- ░░░░░░░░ NOW PLAYING ░░░░░░░░ -->
 <div align="center">
 
-### &nbsp;◍&nbsp; Now playing
+### 🎧 Now playing
 
 <a href="https://open.spotify.com/user/Dek0rta">
-  <img width="420" src="https://spotify-github-profile.kittinanx.com/api/view?uid=DEK0RTA_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=8AB4F8&bar_color_cover=true" alt="now playing"/>
+  <img width="420" src="https://spotify-github-profile.kittinanx.com/api/view?uid=DEK0RTA_SPOTIFY_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=F75C7E&bar_color_cover=true" alt="now playing"/>
 </a>
 
 </div>
 
 <br/>
 
-<!-- ░░░░░░░░ ABOUT — frosted code panel ░░░░░░░░ -->
-
-> ```ts
-> const dek0rta = {
->   role:    "AI-fullstack developer",
->   place:   "Bryansk, RU 🇷🇺",
->   backend: ["Python", "FastAPI", "Supabase"],
->   ai:      ["Gemini", "OCR", "automation"],
->   web:     ["Next.js", "TypeScript", "Tailwind"],
->   deploy:  ["Vercel", "Railway", "Render"],
->   style:   "calm · glass · precise",
-> };
-> ```
-
-<br/>
-
-<!-- ░░░░░░░░ STACK — soft pills ░░░░░░░░ -->
-### &nbsp;◍&nbsp; Stack
-
-<p>
-<img src="https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=8AB4F8" />
-<img src="https://img.shields.io/badge/TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=8AB4F8" />
-<img src="https://img.shields.io/badge/Next.js-1e293b?style=flat-square&logo=nextdotjs&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Supabase-1e293b?style=flat-square&logo=supabase&logoColor=3ECF8E" />
-<img src="https://img.shields.io/badge/Tailwind-1e293b?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
-<img src="https://img.shields.io/badge/Gemini-1e293b?style=flat-square&logo=googlegemini&logoColor=8AB4F8" />
-<img src="https://img.shields.io/badge/Vercel-1e293b?style=flat-square&logo=vercel&logoColor=ffffff" />
-<img src="https://img.shields.io/badge/Railway-1e293b?style=flat-square&logo=railway&logoColor=ffffff" />
-</p>
-
-<br/>
-
-<!-- ░░░░░░░░ PROJECTS — glass cards ░░░░░░░░ -->
-### &nbsp;◍&nbsp; Selected work
-
-| | |
-|:--|:--|
-| **🧠 Homework-bot** | Telegram-бот с Gemini LLM + OCR. Распознаёт задания, тянет дедлайны в Google Calendar, своя аналитика. `Python` |
-| **⚛️ Coninuum-Physics** | Физические симуляции в вебе. Next.js + Supabase, [живой деплой ↗](https://coninuum-physics.vercel.app). `TypeScript` |
-| **💪 SPORTBAZA-IronFlow** | Спорт/трекинг-проект на Python. `Python` |
-
-<br/>
-
-<!-- ░░░░░░░░ STATS — translucent cards ░░░░░░░░ -->
-### &nbsp;◍&nbsp; Stats
-
+<!-- ░░░░░░░░ ABOUT ░░░░░░░░ -->
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dek0rta&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8AB4F8&icon_color=8AB4F8&text_color=a9b4d2&ring_color=8AB4F8" alt="stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dek0rta&layout=compact&hide_border=true&bg_color=0d1117&title_color=8AB4F8&text_color=a9b4d2" alt="langs"/>
+### ⚡ whoami
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Dek0rta&bg_color=0d1117&color=8AB4F8&line=8AB4F8&point=ffffff&hide_border=true&area=true&area_color=1e293b" alt="activity"/>
+</div>
+
+```python
+class Dek0rta:
+    def __init__(self):
+        self.role     = "AI-fullstack developer"
+        self.location = "Bryansk, RU 🇷🇺"
+        self.backend  = ["Python", "FastAPI", "Supabase"]
+        self.ai       = ["Gemini", "OCR", "automation"]
+        self.web      = ["Next.js", "TypeScript", "Tailwind"]
+        self.motto    = "ship fast, break things, fix faster 🚀"
+```
+
+<br/>
+
+<!-- ░░░░░░░░ STACK ░░░░░░░░ -->
+<div align="center">
+
+### 🛠️ Arsenal
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,supabase,nextjs,typescript,tailwind,react,nodejs,vercel,git,linux,vscode&theme=dark&perline=6" />
 
 </div>
 
 <br/>
 
+<!-- ░░░░░░░░ PROJECTS ░░░░░░░░ -->
 <div align="center">
 
-<sub>◍ &nbsp; calm code · glass aesthetic &nbsp; ◍</sub>
+### 🎮 Selected work
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🧠 Homework-bot
+Telegram-бот с **Gemini LLM + OCR**. Распознаёт задания, тянет дедлайны в Google Calendar, своя аналитика.
+<br/>`Python` `Gemini` `OCR`
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚛️ Coninuum-Physics
+Физические симуляции в вебе. **Next.js + Supabase**. [живой деплой ↗](https://coninuum-physics.vercel.app)
+<br/>`TypeScript` `Next.js`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 💪 SPORTBAZA-IronFlow
+Спорт/трекинг-проект на Python.
+<br/>`Python`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🚀 More incoming...
+Always cooking something new.
+<br/>`???`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ░░░░░░░░ TROPHIES ░░░░░░░░ -->
+<div align="center">
+
+### 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=Dek0rta&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" />
+
+</div>
+
+<br/>
+
+<!-- ░░░░░░░░ STATS ░░░░░░░░ -->
+<div align="center">
+
+### 📊 Stats
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dek0rta&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="stats"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Dek0rta&theme=radical&hide_border=true" alt="streak"/>
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dek0rta&layout=compact&hide_border=true&theme=radical&langs_count=8" alt="langs"/>
+
+<!-- snake animation (needs snake.yml action) -->
+<img width="98%" src="https://raw.githubusercontent.com/Dek0rta/Dek0rta/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
+
+</div>
+
+<br/>
+
+<!-- ░░░░░░░░ FOOTER ░░░░░░░░ -->
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,24,20,12,5,2,0&height=120&section=footer"/>
 
 </div>
