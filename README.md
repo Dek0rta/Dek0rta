@@ -4,8 +4,9 @@
 
 <img src="https://raw.githubusercontent.com/Dek0rta/Dek0rta/main/assets/name.png" alt="Dek0rta" width="380"/>
 
-[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=0969DA&center=true&vCenter=true&width=640&lines=Fullstack+developer+%26+web+designer;Design+%E2%86%92+frontend+%E2%86%92+backend+%E2%86%92+database;Figma%2C+shaders%2C+Next.js%2C+Python%2C+Postgres)](https://github.com/Dek0rta)
+[![Typing](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3200&pause=900&color=0969DA&center=true&vCenter=true&width=640&lines=Fullstack+developer;Frontend+%E2%86%92+backend+%E2%86%92+database;Next.js%2C+NestJS%2C+Python%2C+Postgres)](https://github.com/Dek0rta)
 
+<a href="https://zsukhanov.com"><img src="https://img.shields.io/badge/zsukhanov.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/zakhar-sukhanov-1ba2313b6/"><img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://t.me/dek0rta"><img src="https://img.shields.io/badge/Telegram-26a5e4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="mailto:Dek0rta@yandex.com"><img src="https://img.shields.io/badge/Email-ffcc00?style=for-the-badge&logo=maildotru&logoColor=black"/></a>
@@ -16,9 +17,9 @@
 
 <div align="center">
 
-Fullstack developer and web designer from Bryansk, RU.<br/>
-I take products end to end — visual design in Figma and code, polished frontends,<br/>
-backend services, database design, and third-party integrations.
+Fullstack developer from Bryansk, RU.<br/>
+I work across the stack: Next.js frontends, backend services in NestJS and Python,<br/>
+database design and third-party integrations.
 
 </div>
 
@@ -32,15 +33,14 @@ backend services, database design, and third-party integrations.
 
 |  |  |
 |:--|:--|
-| 🎨 &nbsp;**Design** | Interfaces in Figma, then built in code — HTML, CSS, Tailwind, custom GLSL shaders |
-| 🖥️ &nbsp;**Frontend** | Next.js / React apps with TypeScript and shadcn/ui |
-| ⚙️ &nbsp;**Backend** | Python services, REST APIs, third-party integrations |
+| 🖥️ &nbsp;**Frontend** | Next.js / React apps with TypeScript, Tailwind and shadcn/ui |
+| ⚙️ &nbsp;**Backend** | NestJS and Python services, REST APIs, third-party integrations |
 | 🗄️ &nbsp;**Database** | Schema design and queries on PostgreSQL / Supabase |
 
 <div align="center">
 
-> Currently contributing across the full stack of a production **EdTech platform** —
-> design, frontend, backend, database and integrations.
+> Currently at **Global Generation**, contributing to a production **EdTech platform**
+> across frontend, backend, database and integrations.
 
 </div>
 
@@ -66,6 +66,7 @@ backend services, database design, and third-party integrations.
 
 **Backend**
 <br/>
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![REST](https://img.shields.io/badge/REST_API-02569B?style=flat&logo=fastapi&logoColor=white)
@@ -100,13 +101,13 @@ Next.js + Supabase.
 </td>
 <td width="50%" valign="top">
 
-#### 🌐 [Portfolio](https://dek0rta.github.io)
-Interactive 3D portfolio site.
-three.js + GSAP + custom shaders.
+#### 🌐 [Portfolio](https://zsukhanov.com)
+Interactive desk portfolio: Blender Cycles
+frames played on scroll, EN / RU.
 <br/><br/>
-🔗 [dek0rta.github.io](https://dek0rta.github.io)
+🔗 [zsukhanov.com](https://zsukhanov.com)
 <br/>
-`JavaScript` `three.js`
+`TypeScript` `Next.js` `Blender`
 
 </td>
 </tr>
