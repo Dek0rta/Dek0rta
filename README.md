@@ -141,9 +141,9 @@ Dockerized.
 
 ### Activity
 
-<img height="170" src="https://raw.githubusercontent.com/Dek0rta/Dek0rta/output/stats.svg" alt="stats"/>
+<img height="170" src="https://raw.githubusercontent.com/Dek0rta/Dek0rta/output/stats.svg?v=202611242202" alt="stats"/>
 &nbsp;
-<img height="170" src="https://raw.githubusercontent.com/Dek0rta/Dek0rta/output/top-langs.svg" alt="top langs"/>
+<img height="170" src="https://raw.githubusercontent.com/Dek0rta/Dek0rta/output/top-langs.svg?v=202611242202" alt="top langs"/>
 
 <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=Dek0rta&hide_border=true&background=00000000&stroke=30363d&ring=0969da&fire=0969da&currStreakLabel=0969da&sideLabels=768390&dates=768390&currStreakNum=e6edf3&sideNums=e6edf3" alt="streak"/>
 
