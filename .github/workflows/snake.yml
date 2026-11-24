@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate profile cards
 on:
   schedule:
     - cron: "0 */12 * * *"
@@ -16,6 +16,26 @@ jobs:
           github_user_name: Dek0rta
           outputs: |
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      # Stats cards are rendered here instead of a public github-readme-stats
+      # instance, which kept hitting the GitHub API rate limit.
+      # STATS_TOKEN (optional PAT with repo + read:user) adds private repos.
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=Dek0rta&show_icons=true&hide_border=true&hide_title=true&theme=transparent&include_all_commits=true&count_private=true&hide=contribs&title_color=0969da&icon_color=0969da&text_color=768390
+          path: dist/stats.svg
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=Dek0rta&layout=compact&hide_border=true&theme=transparent&count_private=true&langs_count=8&title_color=0969da&text_color=768390
+          path: dist/top-langs.svg
+          token: ${{ secrets.STATS_TOKEN || secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
